@@ -1,0 +1,7 @@
+# 안올리는 파일
+main_int_v1.ipynb
+*.avi
+
+# 폴더
+venv/
+.vscode/
